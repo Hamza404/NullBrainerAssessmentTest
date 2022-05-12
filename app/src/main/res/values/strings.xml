@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NullBrainerAssessment</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="policyholder_account">POLICYHOLDER ACCOUNT</string>
+    <string name="sign_in_or_create_account">Sign In or Create Account</string>
+    <string name="next">Next</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="last_name">Last Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="loading">Loading...</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login_successfully">Login Successfully - Task Completed</string>
+    <string name="please_enter_required_field">Please enter required field</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name_msg">Please enter your full name</string>
+    <string name="last_name_msg">Please enter your last name</string>
+    <string name="email_address_msg">Please enter your email address</string>
+    <string name="phone_number_msg">Please enter your phone number</string>
+    <string name="your_password_msg">Please enter your password</string>
+    <string name="confirm_password_msg">Please enter confirm password</string>
+    <string name="password_match_msg">Password is not match</string>
+</resources>
